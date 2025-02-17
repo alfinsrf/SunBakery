@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Cheesecake",
+    "description": "A soft and creamy cake made from a mixture of cheeses.",
+    "price": 33000,
+    "image": "src/assets/Cheesecake.jpg",
+    "category": "Sweets"
+  },
+  {
+    "id": 2,
+    "name": "Cheesecake Blueberry",
+    "description": "Cheesecake variant that is coated or mixed with blueberries.",
+    "price": 40000,
+    "image": "src/assets/CheesecakeBlueberry.jpg",
+    "category": "Sweets"
+  },
+  {
+    "id": 3,
+    "name": "Cheesecake Strawberry",
+    "description": "Cheesecake variant that is coated or mixed with strawberry.",
+    "price": 42000,
+    "image": "src/assets/CheesecakeStrawberry.jpg",
+    "category": "Sweets"
+  },
+  {
+    "id": 4,
+    "name": "Cheesecake Lotus Biscoff",
+    "description": "Cheesecake covered with Lotus Biscoff biscuit jam.",
+    "price": 50000,
+    "image": "src/assets/CheesecakeLotusBiscoff.jpg",
+    "category": "Sweets"
+  },
+  {
+    "id": 5,
+    "name": "Sandwich",
+    "description": "Sandwiches consist of fillings such as meat, cheese, vegetables, and sauces.",
+    "price": 26000,
+    "image": "src/assets/Sandwich.jpg",
+    "category": "Meat"
+  },
+  {
+    "id": 6,
+    "name": "Cheese Burger",
+    "description": " A burger consisting of a grilled beef patty topped with melted cheese.",
+    "price": 35000,
+    "image": "src/assets/CheeseBurger.jpg",
+    "category": "Meat"
+  },
+  {
+    "id": 7,
+    "name": "Double Burger",
+    "description": "A burger with two layers of meat patty, cheese, lettuce, tomato, onion, pickles, mayonnaise and special sauce.",
+    "price": 50000,
+    "image": "src/assets/DoubleBurger.jpg",
+    "category": "Meat"
+  },
+  {
+    "id": 8,
+    "name": "Ciabatta",
+    "description": "Italian bread with a porous texture and crispy crust.",
+    "price": 30000,
+    "image": "src/assets/Sandwich.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 9,
+    "name": "Focaccia",
+    "description": "Italian bread with olive oil and herbs, suitable for vegetarians.",
+    "price": 25000,
+    "image": "src/assets/Sandwich.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 10,
+    "name": "Bagel",
+    "description": "A ring-shaped bread that is usually vegetarian if it does not contain milk or eggs.",
+    "price": 17000,
+    "image": "src/assets/Sandwich.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 11,
+    "name": "Baguette",
+    "description": "A typical French bread that only contains flour, water, yeast and salt.",
+    "price": 20000,
+    "image": "src/assets/Sandwich.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 12,
+    "name": "Burger Origional",
+    "description": "A burger consisting of a grilled beef patty topped with melted cheese.",
+    "price": 25000,
+    "image": "src/assets/CheeseBurger.jpg",
+    "category": "Meat"
+  }
+]
